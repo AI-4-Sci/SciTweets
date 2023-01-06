@@ -1,7 +1,7 @@
 # SciTweets
 
 <!-- Short Introduction what this repo is about -->
-This repository contains a dataset, annotation framework and code for the work "Resource: SciTweets - A Dataset and Annotation Framework for Detecting Scientific Online Discourse". You can also download the dataset and annotation framework from https://doi.org/10.7802/2434.
+This repository contains a dataset, annotation framework and code for the work "SciTweets - A Dataset and Annotation Framework for Detecting Scientific Online Discourse" published at CIKM2022. You can also download the dataset and annotation framework from https://doi.org/10.7802/2434.
 
 
 <!-- *TODO*: refer to our work before being published (e.g arxiv preprint)
