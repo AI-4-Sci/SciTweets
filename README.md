@@ -1,7 +1,7 @@
 # SciTweets
 
 <!-- Short Introduction what this repo is about -->
-This repository contains a dataset, annotation framework and code for the work "SciTweets - A Dataset and Annotation Framework for Detecting Scientific Online Discourse" published at CIKM2022. You can also download the dataset and annotation framework from https://doi.org/10.7802/2434.
+This repository contains a dataset, annotation framework and code for the work *"SciTweets - A Dataset and Annotation Framework for Detecting Scientific Online Discourse"* published at **CIKM2022**. You can also download the dataset and annotation framework from https://doi.org/10.7802/2434.
 
 
 <!-- *TODO*: refer to our work before being published (e.g arxiv preprint)
@@ -67,15 +67,15 @@ The SciBert baseline classifier trained in section 3 of the paper can be used fo
 <!-- TODO: Update with correct information once we uploaded the paper somewhere -->
 Please cite the following paper if you are using the dataset, annotation framework or pretrained classifier
 
-1. *Salim Hafid and Sebastian Schellhammer and Sandra Bringay and Konstanstin Todorov and Stefan Dietze, "SciTweets - A Dataset and Annotation Framework for
-Detecting Scientific Online Discourse", 2022,  [download](https://arxiv.org/abs/2206.07360).*
+1. *Hafid, Salim, et al. "SciTweets-A Dataset and Annotation Framework for Detecting Scientific Online Discourse." Proceedings of the 31st ACM International Conference on Information & Knowledge Management. 2022, [download](https://arxiv.org/abs/2206.07360).*
 
 ```bib
-@article{hafid2022scitweets,
-    title={SciTweets - A Dataset and Annotation Framework for
-Detecting Scientific Online Discourse},
-    author={Salim Hafid and Sebastian Schellhammer and Sandra Bringay and Konstanstin Todorov and Stefan Dietze},
-    year={2022},
+@inproceedings{hafid2022scitweets,
+  title={SciTweets-A Dataset and Annotation Framework for Detecting Scientific Online Discourse},
+  author={Hafid, Salim and Schellhammer, Sebastian and Bringay, Sandra and Todorov, Konstantin and Dietze, Stefan},
+  booktitle={Proceedings of the 31st ACM International Conference on Information \& Knowledge Management},
+  pages={3988--3992},
+  year={2022}
 }
 ```
 
